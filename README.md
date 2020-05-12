@@ -1,2 +1,2 @@
 # Port-Scanner
-Port Scanner To Determine The Open &amp; Closed Ports In A Network.
+Port Scanner To Determine The Open &amp; Filtered Ports In A Network And Their Corresponding Services.
